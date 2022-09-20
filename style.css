@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right,red,yellow);
+} 
+
+h3 {
+    font-size: 50px;
+}
